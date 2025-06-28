@@ -1,412 +1,412 @@
-contest_type,contest_id,problem_index,name,point,url,task_screen_name
+contest_type,contest_id,problem_index,name,point,,task_screen_name
 AtCoder Beginner Contest,ABC411,A,A. Required Length,100,https://atcoder.jp/contests/abc411/tasks/abc411_a,abc411_a
-AtCoder Beginner Contest,ABC410,A,A. G1,100,A. G1,abc410_a
-AtCoder Beginner Contest,ABC409,A,A. Conflict,100,A. Conflict,abc409_a
-AtCoder Beginner Contest,ABC408,A,A. Timeout,100,A. Timeout,abc408_a
-AtCoder Beginner Contest,ABC407,A,A. Approximation,100,A. Approximation,abc407_a
-AtCoder Beginner Contest,ABC406,A,A. Not Acceptable,100,A. Not Acceptable,abc406_a
-AtCoder Beginner Contest,ABC405,A,A. Is it rated?,100,A. Is it rated?,abc405_a
-AtCoder Beginner Contest,ABC404,A,A. Not Found,100,A. Not Found,abc404_a
-AtCoder Beginner Contest,ABC403,A,A. Odd Position Sum,100,A. Odd Position Sum,abc403_a
-AtCoder Beginner Contest,ABC402,A,A. CBC,100,A. CBC,abc402_a
-AtCoder Beginner Contest,ABC401,A,A. Status Code,100,A. Status Code,abc401_a
-AtCoder Beginner Contest,ABC400,A,A. ABC400 Party,100,A. ABC400 Party,abc400_a
-AtCoder Beginner Contest,ABC399,A,A. Hamming Distance,100,A. Hamming Distance,abc399_a
-AtCoder Beginner Contest,ABC398,A,A. Doors in the Center,100,A. Doors in the Center,abc398_a
-AtCoder Beginner Contest,ABC397,A,A. Thermometer,100,A. Thermometer,abc397_a
-AtCoder Beginner Contest,ABC396,A,A. Triple Four,100,A. Triple Four,abc396_a
-AtCoder Beginner Contest,ABC395,A,A. Strictly Increasing?,100,A. Strictly Increasing?,abc395_a
-AtCoder Beginner Contest,ABC394,A,A. 22222,100,A. 22222,abc394_a
-AtCoder Beginner Contest,ABC393,A,A. Poisonous Oyster,100,A. Poisonous Oyster,abc393_a
-AtCoder Beginner Contest,ABC392,A,A. Shuffled Equation,100,A. Shuffled Equation,abc392_a
-AtCoder Beginner Contest,ABC391,A,A. Lucky Direction,100,A. Lucky Direction,abc391_a
-AtCoder Beginner Contest,ABC390,A,A. 12435,100,A. 12435,abc390_a
-AtCoder Beginner Contest,ABC389,A,A. 9x9,100,A. 9x9,abc389_a
-AtCoder Beginner Contest,ABC388,A,A. ?UPC,100,A. ?UPC,abc388_a
-AtCoder Beginner Contest,ABC387,A,A. Happy New Year 2025,100,A. Happy New Year 2025,abc387_a
-AtCoder Beginner Contest,ABC386,A,A. Full House 2,100,A. Full House 2,abc386_a
-AtCoder Beginner Contest,ABC385,A,A. Equally,100,A. Equally,abc385_a
-AtCoder Beginner Contest,ABC384,A,A. aaaadaa,100,A. aaaadaa,abc384_a
-AtCoder Beginner Contest,ABC383,A,A. Humidifier 1,100,A. Humidifier 1,abc383_a
-AtCoder Beginner Contest,ABC382,A,A. Daily Cookie,100,A. Daily Cookie,abc382_a
-AtCoder Beginner Contest,ABC381,A,A. 11/22 String,100,A. 11/22 String,abc381_a
-AtCoder Beginner Contest,ABC380,A,A. 123233,100,A. 123233,abc380_a
-AtCoder Beginner Contest,ABC379,A,A. Cyclic,100,A. Cyclic,abc379_a
-AtCoder Beginner Contest,ABC378,A,A. Pairing,100,A. Pairing,abc378_a
-AtCoder Beginner Contest,ABC377,A,A. Rearranging ABC,100,A. Rearranging ABC,abc377_a
-AtCoder Beginner Contest,ABC376,A,A. Candy Button,100,A. Candy Button,abc376_a
-AtCoder Beginner Contest,ABC375,A,A. Seats,100,A. Seats,abc375_a
-AtCoder Beginner Contest,ABC374,A,A. Takahashi san 2,100,A. Takahashi san 2,abc374_a
-AtCoder Beginner Contest,ABC373,A,A. September,100,A. September,abc373_a
-AtCoder Beginner Contest,ABC372,A,A. delete .,100,A. delete .,abc372_a
-AtCoder Beginner Contest,ABC371,A,A. Jiro,100,A. Jiro,abc371_a
-AtCoder Beginner Contest,ABC370,A,A. Raise Both Hands,100,A. Raise Both Hands,abc370_a
-AtCoder Beginner Contest,ABC369,A,A. 369,100,A. 369,abc369_a
-AtCoder Beginner Contest,ABC368,A,A. Cut,100,A. Cut,abc368_a
-AtCoder Beginner Contest,ABC367,A,A. Shout Everyday,100,A. Shout Everyday,abc367_a
-AtCoder Beginner Contest,ABC366,A,A. Election 2,100,A. Election 2,abc366_a
-AtCoder Beginner Contest,ABC365,A,A. Leap Year,100,A. Leap Year,abc365_a
-AtCoder Beginner Contest,ABC364,A,A. Glutton Takahashi,100,A. Glutton Takahashi,abc364_a
-AtCoder Beginner Contest,ABC363,A,A. Piling Up,100,A. Piling Up,abc363_a
-AtCoder Beginner Contest,ABC362,A,A. Buy a Pen,100,A. Buy a Pen,abc362_a
-AtCoder Beginner Contest,ABC361,A,A. Insert,100,A. Insert,abc361_a
-AtCoder Beginner Contest,ABC360,A,A. A Healthy Breakfast,100,A. A Healthy Breakfast,abc360_a
-AtCoder Beginner Contest,ABC359,A,A. Count Takahashi,100,A. Count Takahashi,abc359_a
-AtCoder Beginner Contest,ABC358,A,A. Welcome to AtCoder Land,100,A. Welcome to AtCoder Land,abc358_a
-AtCoder Beginner Contest,ABC357,A,A. Sanitize Hands,100,A. Sanitize Hands,abc357_a
-AtCoder Beginner Contest,ABC356,A,A. Subsegment Reverse,100,A. Subsegment Reverse,abc356_a
-AtCoder Beginner Contest,ABC355,A,A. Who Ate the Cake?,100,A. Who Ate the Cake?,abc355_a
-AtCoder Beginner Contest,ABC354,A,A. Exponential Plant,100,A. Exponential Plant,abc354_a
-AtCoder Beginner Contest,ABC353,A,A. Buildings,100,A. Buildings,abc353_a
-AtCoder Beginner Contest,ABC352,A,A. AtCoder Line,100,A. AtCoder Line,abc352_a
-AtCoder Beginner Contest,ABC351,A,A. The bottom of the ninth,100,A. The bottom of the ninth,abc351_a
-AtCoder Beginner Contest,ABC350,A,A. Past ABCs,100,A. Past ABCs,abc350_a
-AtCoder Beginner Contest,ABC349,A,A. Zero Sum Game,100,A. Zero Sum Game,abc349_a
-AtCoder Beginner Contest,ABC348,A,A. Penalty Kick,100,A. Penalty Kick,abc348_a
-AtCoder Beginner Contest,ABC347,A,A. Divisible,100,A. Divisible,abc347_a
-AtCoder Beginner Contest,ABC346,A,A. Adjacent Product,100,A. Adjacent Product,abc346_a
-AtCoder Beginner Contest,ABC345,A,A. Leftrightarrow,100,A. Leftrightarrow,abc345_a
-AtCoder Beginner Contest,ABC344,A,A. Spoiler,100,A. Spoiler,abc344_a
-AtCoder Beginner Contest,ABC343,A,A. Wrong Answer,100,A. Wrong Answer,abc343_a
-AtCoder Beginner Contest,ABC342,A,A. Yay!,100,A. Yay!,abc342_a
-AtCoder Beginner Contest,ABC341,A,A. Print 341,100,A. Print 341,abc341_a
-AtCoder Beginner Contest,ABC340,A,A. Arithmetic Progression,100,A. Arithmetic Progression,abc340_a
-AtCoder Beginner Contest,ABC339,A,A. TLD,100,A. TLD,abc339_a
-AtCoder Beginner Contest,ABC338,A,A. Capitalized?,100,A. Capitalized?,abc338_a
-AtCoder Beginner Contest,ABC337,A,A. Scoreboard,100,A. Scoreboard,abc337_a
-AtCoder Beginner Contest,ABC336,A,A. Long Loong,100,A. Long Loong,abc336_a
-AtCoder Beginner Contest,ABC335,A,A. 202<s>3</s>,100,A. 202<s>3</s>,abc335_a
-AtCoder Beginner Contest,ABC334,A,A. Christmas Present,100,A. Christmas Present,abc334_a
-AtCoder Beginner Contest,ABC333,A,A. Three Threes,100,A. Three Threes,abc333_a
-AtCoder Beginner Contest,ABC332,A,A. Online Shopping,100,A. Online Shopping,abc332_a
-AtCoder Beginner Contest,ABC331,A,A. Tomorrow,100,A. Tomorrow,abc331_a
-AtCoder Beginner Contest,ABC330,A,A. Counting Passes,100,A. Counting Passes,abc330_a
-AtCoder Beginner Contest,ABC329,A,A. Spread,100,A. Spread,abc329_a
-AtCoder Beginner Contest,ABC328,A,A. Not Too Hard,100,A. Not Too Hard,abc328_a
-AtCoder Beginner Contest,ABC327,A,A. ab,100,A. ab,abc327_a
-AtCoder Beginner Contest,ABC326,A,A. 2UP3DOWN,100,A. 2UP3DOWN,abc326_a
-AtCoder Beginner Contest,ABC325,A,A. Takahashi san,100,A. Takahashi san,abc325_a
-AtCoder Beginner Contest,ABC324,A,A. Same,100,A. Same,abc324_a
-AtCoder Beginner Contest,ABC323,A,A. Weak Beats,100,A. Weak Beats,abc323_a
-AtCoder Beginner Contest,ABC322,A,A. First ABC 2,100,A. First ABC 2,abc322_a
-AtCoder Beginner Contest,ABC321,A,A. 321-like Checker,100,A. 321-like Checker,abc321_a
-AtCoder Beginner Contest,ABC320,A,A. Leyland Number,100,A. Leyland Number,abc320_a
-AtCoder Beginner Contest,ABC319,A,A. Legendary Players,100,A. Legendary Players,abc319_a
-AtCoder Beginner Contest,ABC318,A,A. Full Moon,100,A. Full Moon,abc318_a
-AtCoder Beginner Contest,ABC317,A,A. Potions,100,A. Potions,abc317_a
-AtCoder Beginner Contest,ABC316,A,,100,A. tcdr,abc316_a
-AtCoder Beginner Contest,ABC315,A,A. tcdr,100,A. 3.14,abc315_a
-AtCoder Beginner Contest,ABC314,A,A. 3.14,100,A. To Be Saikyo,abc314_a
-AtCoder Beginner Contest,ABC313,A,A. To Be Saikyo,100,A. Chord,abc313_a
-AtCoder Beginner Contest,ABC312,A,A. Chord,100,A. First ABC,abc312_a
-AtCoder Beginner Contest,ABC311,A,A. First ABC,100,A. Order Something Else,abc311_a
-AtCoder Beginner Contest,ABC310,A,A. Order Something Else,100,#REF!,abc310_a
-AtCoder Beginner Contest,ABC309,A,A. Nine,100,A. Nine,abc309_a
-AtCoder Beginner Contest,ABC308,A,A. New Scheme,100,A. New Scheme,abc308_a
-AtCoder Beginner Contest,ABC307,A,A. Weekly Records,100,A. Weekly Records,abc307_a
-AtCoder Beginner Contest,ABC306,A,A. Echo,100,A. Echo,abc306_a
-AtCoder Beginner Contest,ABC305,A,A. Water Station,100,A. Water Station,abc305_a
-AtCoder Beginner Contest,ABC304,A,A. First Player,100,A. First Player,abc304_a
-AtCoder Beginner Contest,ABC303,A,A. Similar String,100,A. Similar String,abc303_a
-AtCoder Beginner Contest,ABC302,A,A. Attack,100,A. Attack,abc302_a
-AtCoder Beginner Contest,ABC301,A,A. Overall Winner,100,A. Overall Winner,abc301_a
-AtCoder Beginner Contest,ABC300,A,A. N-choice question,100,A. N-choice question,abc300_a
-AtCoder Beginner Contest,ABC299,A,,100,,abc299_a
-AtCoder Beginner Contest,ABC298,A,,100,,abc298_a
-AtCoder Beginner Contest,ABC297,A,,100,,abc297_a
-AtCoder Beginner Contest,ABC296,A,,100,,abc296_a
-AtCoder Beginner Contest,ABC295,A,,100,,abc295_a
-AtCoder Beginner Contest,ABC294,A,,100,,abc294_a
-AtCoder Beginner Contest,ABC293,A,,100,,abc293_a
-AtCoder Beginner Contest,ABC292,A,,100,,abc292_a
-AtCoder Beginner Contest,ABC291,A,,100,,abc291_a
-AtCoder Beginner Contest,ABC290,A,,100,,abc290_a
-AtCoder Beginner Contest,ABC289,A,,100,,abc289_a
-AtCoder Beginner Contest,ABC288,A,,100,,abc288_a
-AtCoder Beginner Contest,ABC287,A,,100,,abc287_a
-AtCoder Beginner Contest,ABC286,A,,100,,abc286_a
-AtCoder Beginner Contest,ABC285,A,,100,,abc285_a
-AtCoder Beginner Contest,ABC284,A,,100,,abc284_a
-AtCoder Beginner Contest,ABC283,A,,100,,abc283_a
-AtCoder Beginner Contest,ABC282,A,,100,,abc282_a
-AtCoder Beginner Contest,ABC281,A,,100,,abc281_a
-AtCoder Beginner Contest,ABC280,A,,100,,abc280_a
-AtCoder Beginner Contest,ABC279,A,,100,,abc279_a
-AtCoder Beginner Contest,ABC278,A,,100,,abc278_a
-AtCoder Beginner Contest,ABC277,A,,100,,abc277_a
-AtCoder Beginner Contest,ABC276,A,,100,,abc276_a
-AtCoder Beginner Contest,ABC275,A,,100,,abc275_a
-AtCoder Beginner Contest,ABC274,A,,100,,abc274_a
-AtCoder Beginner Contest,ABC273,A,,100,,abc273_a
-AtCoder Beginner Contest,ABC272,A,,100,,abc272_a
-AtCoder Beginner Contest,ABC271,A,,100,,abc271_a
-AtCoder Beginner Contest,ABC270,A,,100,,abc270_a
-AtCoder Beginner Contest,ABC269,A,,100,,abc269_a
-AtCoder Beginner Contest,ABC268,A,,100,,abc268_a
-AtCoder Beginner Contest,ABC267,A,,100,,abc267_a
-AtCoder Beginner Contest,ABC266,A,,100,,abc266_a
-AtCoder Beginner Contest,ABC265,A,,100,,abc265_a
-AtCoder Beginner Contest,ABC264,A,,100,,abc264_a
-AtCoder Beginner Contest,ABC263,A,,100,,abc263_a
-AtCoder Beginner Contest,ABC262,A,,100,,abc262_a
-AtCoder Beginner Contest,ABC261,A,,100,,abc261_a
-AtCoder Beginner Contest,ABC260,A,,100,,abc260_a
-AtCoder Beginner Contest,ABC259,A,,100,,abc259_a
-AtCoder Beginner Contest,ABC258,A,,100,,abc258_a
-AtCoder Beginner Contest,ABC257,A,,100,,abc257_a
-AtCoder Beginner Contest,ABC256,A,,100,,abc256_a
-AtCoder Beginner Contest,ABC255,A,,100,,abc255_a
-AtCoder Beginner Contest,ABC254,A,,100,,abc254_a
-AtCoder Beginner Contest,ABC253,A,,100,,abc253_a
-AtCoder Beginner Contest,ABC252,A,,100,,abc252_a
-AtCoder Beginner Contest,ABC251,A,,100,,abc251_a
-AtCoder Beginner Contest,ABC250,A,,100,,abc250_a
-AtCoder Beginner Contest,ABC249,A,,100,,abc249_a
-AtCoder Beginner Contest,ABC248,A,,100,,abc248_a
-AtCoder Beginner Contest,ABC247,A,,100,,abc247_a
-AtCoder Beginner Contest,ABC246,A,,100,,abc246_a
-AtCoder Beginner Contest,ABC245,A,,100,,abc245_a
-AtCoder Beginner Contest,ABC244,A,,100,,abc244_a
-AtCoder Beginner Contest,ABC243,A,,100,,abc243_a
-AtCoder Beginner Contest,ABC242,A,,100,,abc242_a
-AtCoder Beginner Contest,ABC241,A,,100,,abc241_a
-AtCoder Beginner Contest,ABC240,A,,100,,abc240_a
-AtCoder Beginner Contest,ABC239,A,,100,,abc239_a
-AtCoder Beginner Contest,ABC238,A,,100,,abc238_a
-AtCoder Beginner Contest,ABC237,A,,100,,abc237_a
-AtCoder Beginner Contest,ABC236,A,,100,,abc236_a
-AtCoder Beginner Contest,ABC235,A,,100,,abc235_a
-AtCoder Beginner Contest,ABC234,A,,100,,abc234_a
-AtCoder Beginner Contest,ABC233,A,,100,,abc233_a
-AtCoder Beginner Contest,ABC232,A,,100,,abc232_a
-AtCoder Beginner Contest,ABC231,A,,100,,abc231_a
-AtCoder Beginner Contest,ABC230,A,,100,,abc230_a
-AtCoder Beginner Contest,ABC229,A,,100,,abc229_a
-AtCoder Beginner Contest,ABC228,A,,100,,abc228_a
-AtCoder Beginner Contest,ABC227,A,,100,,abc227_a
-AtCoder Beginner Contest,ABC226,A,,100,,abc226_a
-AtCoder Beginner Contest,ABC225,A,,100,,abc225_a
-AtCoder Beginner Contest,ABC224,A,,100,,abc224_a
-AtCoder Beginner Contest,ABC223,A,,100,,abc223_a
-AtCoder Beginner Contest,ABC222,A,,100,,abc222_a
-AtCoder Beginner Contest,ABC221,A,,100,,abc221_a
-AtCoder Beginner Contest,ABC220,A,,100,,abc220_a
-AtCoder Beginner Contest,ABC219,A,,100,,abc219_a
-AtCoder Beginner Contest,ABC218,A,,100,,abc218_a
-AtCoder Beginner Contest,ABC217,A,,100,,abc217_a
-AtCoder Beginner Contest,ABC216,A,,100,,abc216_a
-AtCoder Beginner Contest,ABC215,A,,100,,abc215_a
-AtCoder Beginner Contest,ABC214,A,,100,,abc214_a
-AtCoder Beginner Contest,ABC213,A,,100,,abc213_a
-AtCoder Beginner Contest,ABC212,A,,100,,abc212_a
-AtCoder Beginner Contest,ABC211,A,,100,,abc211_a
-AtCoder Beginner Contest,ABC210,A,,100,,abc210_a
-AtCoder Beginner Contest,ABC209,A,,100,,abc209_a
-AtCoder Beginner Contest,ABC208,A,,100,,abc208_a
-AtCoder Beginner Contest,ABC207,A,,100,,abc207_a
-AtCoder Beginner Contest,ABC206,A,,100,,abc206_a
-AtCoder Beginner Contest,ABC205,A,,100,,abc205_a
-AtCoder Beginner Contest,ABC204,A,,100,,abc204_a
-AtCoder Beginner Contest,ABC203,A,,100,,abc203_a
-AtCoder Beginner Contest,ABC202,A,,100,,abc202_a
-AtCoder Beginner Contest,ABC201,A,,100,,abc201_a
-AtCoder Beginner Contest,ABC200,A,,100,,abc200_a
-AtCoder Beginner Contest,ABC199,A,,100,,abc199_a
-AtCoder Beginner Contest,ABC198,A,,100,,abc198_a
-AtCoder Beginner Contest,ABC197,A,,100,,abc197_a
-AtCoder Beginner Contest,ABC196,A,,100,,abc196_a
-AtCoder Beginner Contest,ABC195,A,,100,,abc195_a
-AtCoder Beginner Contest,ABC194,A,,100,,abc194_a
-AtCoder Beginner Contest,ABC193,A,,100,,abc193_a
-AtCoder Beginner Contest,ABC192,A,,100,,abc192_a
-AtCoder Beginner Contest,ABC191,A,,100,,abc191_a
-AtCoder Beginner Contest,ABC190,A,,100,,abc190_a
-AtCoder Beginner Contest,ABC189,A,,100,,abc189_a
-AtCoder Beginner Contest,ABC188,A,,100,,abc188_a
-AtCoder Beginner Contest,ABC187,A,,100,,abc187_a
-AtCoder Beginner Contest,ABC186,A,,100,,abc186_a
-AtCoder Beginner Contest,ABC185,A,,100,,abc185_a
-AtCoder Beginner Contest,ABC184,A,,100,,abc184_a
-AtCoder Beginner Contest,ABC183,A,,100,,abc183_a
-AtCoder Beginner Contest,ABC182,A,,100,,abc182_a
-AtCoder Beginner Contest,ABC181,A,,100,,abc181_a
-AtCoder Beginner Contest,ABC180,A,,100,,abc180_a
-AtCoder Beginner Contest,ABC179,A,,100,,abc179_a
-AtCoder Beginner Contest,ABC178,A,,100,,abc178_a
-AtCoder Beginner Contest,ABC177,A,,100,,abc177_a
-AtCoder Beginner Contest,ABC176,A,,100,,abc176_a
-AtCoder Beginner Contest,ABC175,A,,100,,abc175_a
-AtCoder Beginner Contest,ABC174,A,,100,,abc174_a
-AtCoder Beginner Contest,ABC173,A,,100,,abc173_a
-AtCoder Beginner Contest,ABC172,A,,100,,abc172_a
-AtCoder Beginner Contest,ABC171,A,,100,,abc171_a
-AtCoder Beginner Contest,ABC170,A,,100,,abc170_a
-AtCoder Beginner Contest,ABC169,A,,100,,abc169_a
-AtCoder Beginner Contest,ABC168,A,,100,,abc168_a
-AtCoder Beginner Contest,ABC167,A,,100,,abc167_a
-AtCoder Beginner Contest,ABC166,A,,100,,abc166_a
-AtCoder Beginner Contest,ABC165,A,,100,,abc165_a
-AtCoder Beginner Contest,ABC164,A,,100,,abc164_a
-AtCoder Beginner Contest,ABC163,A,,100,,abc163_a
-AtCoder Beginner Contest,ABC162,A,,100,,abc162_a
-AtCoder Beginner Contest,ABC161,A,,100,,abc161_a
-AtCoder Beginner Contest,ABC160,A,,100,,abc160_a
-AtCoder Beginner Contest,ABC159,A,,100,,abc159_a
-AtCoder Beginner Contest,ABC158,A,,100,,abc158_a
-AtCoder Beginner Contest,ABC157,A,,100,,abc157_a
-AtCoder Beginner Contest,ABC156,A,,100,,abc156_a
-AtCoder Beginner Contest,ABC155,A,,100,,abc155_a
-AtCoder Beginner Contest,ABC154,A,,100,,abc154_a
-AtCoder Beginner Contest,ABC153,A,,100,,abc153_a
-AtCoder Beginner Contest,ABC152,A,,100,,abc152_a
-AtCoder Beginner Contest,ABC151,A,,100,,abc151_a
-AtCoder Beginner Contest,ABC150,A,,100,,abc150_a
-AtCoder Beginner Contest,ABC149,A,,100,,abc149_a
-AtCoder Beginner Contest,ABC148,A,,100,,abc148_a
-AtCoder Beginner Contest,ABC147,A,,100,,abc147_a
-AtCoder Beginner Contest,ABC146,A,,100,,abc146_a
-AtCoder Beginner Contest,ABC145,A,,100,,abc145_a
-AtCoder Beginner Contest,ABC144,A,,100,,abc144_a
-AtCoder Beginner Contest,ABC143,A,,100,,abc143_a
-AtCoder Beginner Contest,ABC142,A,,100,,abc142_a
-AtCoder Beginner Contest,ABC141,A,,100,,abc141_a
-AtCoder Beginner Contest,ABC140,A,,100,,abc140_a
-AtCoder Beginner Contest,ABC139,A,,100,,abc139_a
-AtCoder Beginner Contest,ABC138,A,,100,,abc138_a
-AtCoder Beginner Contest,ABC137,A,,100,,abc137_a
-AtCoder Beginner Contest,ABC136,A,,100,,abc136_a
-AtCoder Beginner Contest,ABC135,A,,100,,abc135_a
-AtCoder Beginner Contest,ABC134,A,,100,,abc134_a
-AtCoder Beginner Contest,ABC133,A,,100,,abc133_a
-AtCoder Beginner Contest,ABC132,A,,100,,abc132_a
-AtCoder Beginner Contest,ABC131,A,,100,,abc131_a
-AtCoder Beginner Contest,ABC130,A,,100,,abc130_a
-AtCoder Beginner Contest,ABC129,A,,100,,abc129_a
-AtCoder Beginner Contest,ABC128,A,,100,,abc128_a
-AtCoder Beginner Contest,ABC127,A,,100,,abc127_a
-AtCoder Beginner Contest,ABC126,A,,100,,abc126_a
-AtCoder Beginner Contest,ABC125,A,,100,,abc125_a
-AtCoder Beginner Contest,ABC124,A,,100,,abc124_a
-AtCoder Beginner Contest,ABC123,A,,100,,abc123_a
-AtCoder Beginner Contest,ABC122,A,,100,,abc122_a
-AtCoder Beginner Contest,ABC121,A,,100,,abc121_a
-AtCoder Beginner Contest,ABC120,A,,100,,abc120_a
-AtCoder Beginner Contest,ABC119,A,,100,,abc119_a
-AtCoder Beginner Contest,ABC118,A,,100,,abc118_a
-AtCoder Beginner Contest,ABC117,A,,100,,abc117_a
-AtCoder Beginner Contest,ABC116,A,,100,,abc116_a
-AtCoder Beginner Contest,ABC115,A,,100,,abc115_a
-AtCoder Beginner Contest,ABC114,A,,100,,abc114_a
-AtCoder Beginner Contest,ABC113,A,,100,,abc113_a
-AtCoder Beginner Contest,ABC112,A,,100,,abc112_a
-AtCoder Beginner Contest,ABC111,A,,100,,abc111_a
-AtCoder Beginner Contest,ABC110,A,,100,,abc110_a
-AtCoder Beginner Contest,ABC109,A,,100,,abc109_a
-AtCoder Beginner Contest,ABC108,A,,100,,abc108_a
-AtCoder Beginner Contest,ABC107,A,,100,,abc107_a
-AtCoder Beginner Contest,ABC106,A,,100,,abc106_a
-AtCoder Beginner Contest,ABC105,A,,100,,abc105_a
-AtCoder Beginner Contest,ABC104,A,,100,,abc104_a
-AtCoder Beginner Contest,ABC103,A,,100,,abc103_a
-AtCoder Beginner Contest,ABC102,A,,100,,abc102_a
-AtCoder Beginner Contest,ABC101,A,,100,,abc101_a
-AtCoder Beginner Contest,ABC100,A,,100,,abc100_a
-AtCoder Beginner Contest,ABC99,A,,100,,abc99_a
-AtCoder Beginner Contest,ABC98,A,,100,,abc98_a
-AtCoder Beginner Contest,ABC97,A,,100,,abc97_a
-AtCoder Beginner Contest,ABC96,A,,100,,abc96_a
-AtCoder Beginner Contest,ABC95,A,,100,,abc95_a
-AtCoder Beginner Contest,ABC94,A,,100,,abc94_a
-AtCoder Beginner Contest,ABC93,A,,100,,abc93_a
-AtCoder Beginner Contest,ABC92,A,,100,,abc92_a
-AtCoder Beginner Contest,ABC91,A,,100,,abc91_a
-AtCoder Beginner Contest,ABC90,A,,100,,abc90_a
-AtCoder Beginner Contest,ABC89,A,,100,,abc89_a
-AtCoder Beginner Contest,ABC88,A,,100,,abc88_a
-AtCoder Beginner Contest,ABC87,A,,100,,abc87_a
-AtCoder Beginner Contest,ABC86,A,,100,,abc86_a
-AtCoder Beginner Contest,ABC85,A,,100,,abc85_a
-AtCoder Beginner Contest,ABC84,A,,100,,abc84_a
-AtCoder Beginner Contest,ABC83,A,,100,,abc83_a
-AtCoder Beginner Contest,ABC82,A,,100,,abc82_a
-AtCoder Beginner Contest,ABC81,A,,100,,abc81_a
-AtCoder Beginner Contest,ABC80,A,,100,,abc80_a
-AtCoder Beginner Contest,ABC79,A,,100,,abc79_a
-AtCoder Beginner Contest,ABC78,A,,100,,abc78_a
-AtCoder Beginner Contest,ABC77,A,,100,,abc77_a
-AtCoder Beginner Contest,ABC76,A,,100,,abc76_a
-AtCoder Beginner Contest,ABC75,A,,100,,abc75_a
-AtCoder Beginner Contest,ABC74,A,,100,,abc74_a
-AtCoder Beginner Contest,ABC73,A,,100,,abc73_a
-AtCoder Beginner Contest,ABC72,A,,100,,abc72_a
-AtCoder Beginner Contest,ABC71,A,,100,,abc71_a
-AtCoder Beginner Contest,ABC70,A,,100,,abc70_a
-AtCoder Beginner Contest,ABC69,A,,100,,abc69_a
-AtCoder Beginner Contest,ABC68,A,,100,,abc68_a
-AtCoder Beginner Contest,ABC67,A,,100,,abc67_a
-AtCoder Beginner Contest,ABC66,A,,100,,abc66_a
-AtCoder Beginner Contest,ABC65,A,,100,,abc65_a
-AtCoder Beginner Contest,ABC64,A,,100,,abc64_a
-AtCoder Beginner Contest,ABC63,A,,100,,abc63_a
-AtCoder Beginner Contest,ABC62,A,,100,,abc62_a
-AtCoder Beginner Contest,ABC61,A,,100,,abc61_a
-AtCoder Beginner Contest,ABC60,A,,100,,abc60_a
-AtCoder Beginner Contest,ABC59,A,,100,,abc59_a
-AtCoder Beginner Contest,ABC58,A,,100,,abc58_a
-AtCoder Beginner Contest,ABC57,A,,100,,abc57_a
-AtCoder Beginner Contest,ABC56,A,,100,,abc56_a
-AtCoder Beginner Contest,ABC55,A,,100,,abc55_a
-AtCoder Beginner Contest,ABC54,A,,100,,abc54_a
-AtCoder Beginner Contest,ABC53,A,,100,,abc53_a
-AtCoder Beginner Contest,ABC52,A,,100,,abc52_a
-AtCoder Beginner Contest,ABC51,A,,100,,abc51_a
-AtCoder Beginner Contest,ABC50,A,,100,,abc50_a
-AtCoder Beginner Contest,ABC49,A,,100,,abc49_a
-AtCoder Beginner Contest,ABC48,A,,100,,abc48_a
-AtCoder Beginner Contest,ABC47,A,,100,,abc47_a
-AtCoder Beginner Contest,ABC46,A,,100,,abc46_a
-AtCoder Beginner Contest,ABC45,A,,100,,abc45_a
-AtCoder Beginner Contest,ABC44,A,,100,,abc44_a
-AtCoder Beginner Contest,ABC43,A,,100,,abc43_a
-AtCoder Beginner Contest,ABC42,A,,100,,abc42_a
-AtCoder Beginner Contest,ABC41,A,,100,,abc41_a
-AtCoder Beginner Contest,ABC40,A,,100,,abc40_a
-AtCoder Beginner Contest,ABC39,A,,100,,abc39_a
-AtCoder Beginner Contest,ABC38,A,,100,,abc38_a
-AtCoder Beginner Contest,ABC37,A,,100,,abc37_a
-AtCoder Beginner Contest,ABC36,A,,100,,abc36_a
-AtCoder Beginner Contest,ABC35,A,,100,,abc35_a
-AtCoder Beginner Contest,ABC34,A,,100,,abc34_a
-AtCoder Beginner Contest,ABC33,A,,100,,abc33_a
-AtCoder Beginner Contest,ABC32,A,,100,,abc32_a
-AtCoder Beginner Contest,ABC31,A,,100,,abc31_a
-AtCoder Beginner Contest,ABC30,A,,100,,abc30_a
-AtCoder Beginner Contest,ABC29,A,,100,,abc29_a
-AtCoder Beginner Contest,ABC28,A,,100,,abc28_a
-AtCoder Beginner Contest,ABC27,A,,100,,abc27_a
-AtCoder Beginner Contest,ABC26,A,,100,,abc26_a
-AtCoder Beginner Contest,ABC25,A,,100,,abc25_a
-AtCoder Beginner Contest,ABC24,A,,100,,abc24_a
-AtCoder Beginner Contest,ABC23,A,,100,,abc23_a
-AtCoder Beginner Contest,ABC22,A,,100,,abc22_a
-AtCoder Beginner Contest,ABC21,A,,100,,abc21_a
-AtCoder Beginner Contest,ABC20,A,,100,,abc20_a
-AtCoder Beginner Contest,ABC19,A,,100,,abc19_a
-AtCoder Beginner Contest,ABC18,A,,100,,abc18_a
-AtCoder Beginner Contest,ABC17,A,,100,,abc17_a
-AtCoder Beginner Contest,ABC16,A,,100,,abc16_a
-AtCoder Beginner Contest,ABC15,A,,100,,abc15_a
-AtCoder Beginner Contest,ABC14,A,,100,,abc14_a
-AtCoder Beginner Contest,ABC13,A,,100,,abc13_a
-AtCoder Beginner Contest,ABC12,A,,100,,abc12_a
-AtCoder Beginner Contest,ABC11,A,,100,,abc11_a
-AtCoder Beginner Contest,ABC10,A,,100,,abc10_a
-AtCoder Beginner Contest,ABC9,A,,100,,abc9_a
-AtCoder Beginner Contest,ABC8,A,,100,,abc8_a
-AtCoder Beginner Contest,ABC7,A,,100,,abc7_a
-AtCoder Beginner Contest,ABC6,A,,100,,abc6_a
-AtCoder Beginner Contest,ABC5,A,,100,,abc5_a
-AtCoder Beginner Contest,ABC4,A,,100,,abc4_a
-AtCoder Beginner Contest,ABC3,A,,100,,abc3_a
-AtCoder Beginner Contest,ABC2,A,,100,,abc2_a
-AtCoder Beginner Contest,ABC1,A,,100,,abc1_a
+AtCoder Beginner Contest,ABC410,A,A. G1,100,https://atcoder.jp/contests/abc410/tasks/abc410_a,abc410_a
+AtCoder Beginner Contest,ABC409,A,A. Conflict,100,https://atcoder.jp/contests/abc409/tasks/abc409_a,abc409_a
+AtCoder Beginner Contest,ABC408,A,A. Timeout,100,https://atcoder.jp/contests/abc408/tasks/abc408_a,abc408_a
+AtCoder Beginner Contest,ABC407,A,A. Approximation,100,https://atcoder.jp/contests/abc407/tasks/abc407_a,abc407_a
+AtCoder Beginner Contest,ABC406,A,A. Not Acceptable,100,https://atcoder.jp/contests/abc406/tasks/abc406_a,abc406_a
+AtCoder Beginner Contest,ABC405,A,A. Is it rated?,100,https://atcoder.jp/contests/abc405/tasks/abc405_a,abc405_a
+AtCoder Beginner Contest,ABC404,A,A. Not Found,100,https://atcoder.jp/contests/abc404/tasks/abc404_a,abc404_a
+AtCoder Beginner Contest,ABC403,A,A. Odd Position Sum,100,https://atcoder.jp/contests/abc403/tasks/abc403_a,abc403_a
+AtCoder Beginner Contest,ABC402,A,A. CBC,100,https://atcoder.jp/contests/abc402/tasks/abc402_a,abc402_a
+AtCoder Beginner Contest,ABC401,A,A. Status Code,100,https://atcoder.jp/contests/abc401/tasks/abc401_a,abc401_a
+AtCoder Beginner Contest,ABC400,A,A. ABC400 Party,100,https://atcoder.jp/contests/abc400/tasks/abc400_a,abc400_a
+AtCoder Beginner Contest,ABC399,A,A. Hamming Distance,100,https://atcoder.jp/contests/abc399/tasks/abc399_a,abc399_a
+AtCoder Beginner Contest,ABC398,A,A. Doors in the Center,100,https://atcoder.jp/contests/abc398/tasks/abc398_a,abc398_a
+AtCoder Beginner Contest,ABC397,A,A. Thermometer,100,https://atcoder.jp/contests/abc397/tasks/abc397_a,abc397_a
+AtCoder Beginner Contest,ABC396,A,A. Triple Four,100,https://atcoder.jp/contests/abc396/tasks/abc396_a,abc396_a
+AtCoder Beginner Contest,ABC395,A,A. Strictly Increasing?,100,https://atcoder.jp/contests/abc395/tasks/abc395_a,abc395_a
+AtCoder Beginner Contest,ABC394,A,A. 22222,100,https://atcoder.jp/contests/abc394/tasks/abc394_a,abc394_a
+AtCoder Beginner Contest,ABC393,A,A. Poisonous Oyster,100,https://atcoder.jp/contests/abc393/tasks/abc393_a,abc393_a
+AtCoder Beginner Contest,ABC392,A,A. Shuffled Equation,100,https://atcoder.jp/contests/abc392/tasks/abc392_a,abc392_a
+AtCoder Beginner Contest,ABC391,A,A. Lucky Direction,100,https://atcoder.jp/contests/abc391/tasks/abc391_a,abc391_a
+AtCoder Beginner Contest,ABC390,A,A. 12435,100,https://atcoder.jp/contests/abc390/tasks/abc390_a,abc390_a
+AtCoder Beginner Contest,ABC389,A,A. 9x9,100,https://atcoder.jp/contests/abc389/tasks/abc389_a,abc389_a
+AtCoder Beginner Contest,ABC388,A,A. ?UPC,100,https://atcoder.jp/contests/abc388/tasks/abc388_a,abc388_a
+AtCoder Beginner Contest,ABC387,A,A. Happy New Year 2025,100,https://atcoder.jp/contests/abc387/tasks/abc387_a,abc387_a
+AtCoder Beginner Contest,ABC386,A,A. Full House 2,100,https://atcoder.jp/contests/abc386/tasks/abc386_a,abc386_a
+AtCoder Beginner Contest,ABC385,A,A. Equally,100,https://atcoder.jp/contests/abc385/tasks/abc385_a,abc385_a
+AtCoder Beginner Contest,ABC384,A,A. aaaadaa,100,https://atcoder.jp/contests/abc384/tasks/abc384_a,abc384_a
+AtCoder Beginner Contest,ABC383,A,A. Humidifier 1,100,https://atcoder.jp/contests/abc383/tasks/abc383_a,abc383_a
+AtCoder Beginner Contest,ABC382,A,A. Daily Cookie,100,https://atcoder.jp/contests/abc382/tasks/abc382_a,abc382_a
+AtCoder Beginner Contest,ABC381,A,A. 11/22 String,100,https://atcoder.jp/contests/abc381/tasks/abc381_a,abc381_a
+AtCoder Beginner Contest,ABC380,A,A. 123233,100,https://atcoder.jp/contests/abc380/tasks/abc380_a,abc380_a
+AtCoder Beginner Contest,ABC379,A,A. Cyclic,100,https://atcoder.jp/contests/abc379/tasks/abc379_a,abc379_a
+AtCoder Beginner Contest,ABC378,A,A. Pairing,100,https://atcoder.jp/contests/abc378/tasks/abc378_a,abc378_a
+AtCoder Beginner Contest,ABC377,A,A. Rearranging ABC,100,https://atcoder.jp/contests/abc377/tasks/abc377_a,abc377_a
+AtCoder Beginner Contest,ABC376,A,A. Candy Button,100,https://atcoder.jp/contests/abc376/tasks/abc376_a,abc376_a
+AtCoder Beginner Contest,ABC375,A,A. Seats,100,https://atcoder.jp/contests/abc375/tasks/abc375_a,abc375_a
+AtCoder Beginner Contest,ABC374,A,A. Takahashi san 2,100,https://atcoder.jp/contests/abc374/tasks/abc374_a,abc374_a
+AtCoder Beginner Contest,ABC373,A,A. September,100,https://atcoder.jp/contests/abc373/tasks/abc373_a,abc373_a
+AtCoder Beginner Contest,ABC372,A,A. delete .,100,https://atcoder.jp/contests/abc372/tasks/abc372_a,abc372_a
+AtCoder Beginner Contest,ABC371,A,A. Jiro,100,https://atcoder.jp/contests/abc371/tasks/abc371_a,abc371_a
+AtCoder Beginner Contest,ABC370,A,A. Raise Both Hands,100,https://atcoder.jp/contests/abc370/tasks/abc370_a,abc370_a
+AtCoder Beginner Contest,ABC369,A,A. 369,100,https://atcoder.jp/contests/abc369/tasks/abc369_a,abc369_a
+AtCoder Beginner Contest,ABC368,A,A. Cut,100,https://atcoder.jp/contests/abc368/tasks/abc368_a,abc368_a
+AtCoder Beginner Contest,ABC367,A,A. Shout Everyday,100,https://atcoder.jp/contests/abc367/tasks/abc367_a,abc367_a
+AtCoder Beginner Contest,ABC366,A,A. Election 2,100,https://atcoder.jp/contests/abc366/tasks/abc366_a,abc366_a
+AtCoder Beginner Contest,ABC365,A,A. Leap Year,100,https://atcoder.jp/contests/abc365/tasks/abc365_a,abc365_a
+AtCoder Beginner Contest,ABC364,A,A. Glutton Takahashi,100,https://atcoder.jp/contests/abc364/tasks/abc364_a,abc364_a
+AtCoder Beginner Contest,ABC363,A,A. Piling Up,100,https://atcoder.jp/contests/abc363/tasks/abc363_a,abc363_a
+AtCoder Beginner Contest,ABC362,A,A. Buy a Pen,100,https://atcoder.jp/contests/abc362/tasks/abc362_a,abc362_a
+AtCoder Beginner Contest,ABC361,A,A. Insert,100,https://atcoder.jp/contests/abc361/tasks/abc361_a,abc361_a
+AtCoder Beginner Contest,ABC360,A,A. A Healthy Breakfast,100,https://atcoder.jp/contests/abc360/tasks/abc360_a,abc360_a
+AtCoder Beginner Contest,ABC359,A,A. Count Takahashi,100,https://atcoder.jp/contests/abc359/tasks/abc359_a,abc359_a
+AtCoder Beginner Contest,ABC358,A,A. Welcome to AtCoder Land,100,https://atcoder.jp/contests/abc358/tasks/abc358_a,abc358_a
+AtCoder Beginner Contest,ABC357,A,A. Sanitize Hands,100,https://atcoder.jp/contests/abc357/tasks/abc357_a,abc357_a
+AtCoder Beginner Contest,ABC356,A,A. Subsegment Reverse,100,https://atcoder.jp/contests/abc356/tasks/abc356_a,abc356_a
+AtCoder Beginner Contest,ABC355,A,A. Who Ate the Cake?,100,https://atcoder.jp/contests/abc355/tasks/abc355_a,abc355_a
+AtCoder Beginner Contest,ABC354,A,A. Exponential Plant,100,https://atcoder.jp/contests/abc354/tasks/abc354_a,abc354_a
+AtCoder Beginner Contest,ABC353,A,A. Buildings,100,https://atcoder.jp/contests/abc353/tasks/abc353_a,abc353_a
+AtCoder Beginner Contest,ABC352,A,A. AtCoder Line,100,https://atcoder.jp/contests/abc352/tasks/abc352_a,abc352_a
+AtCoder Beginner Contest,ABC351,A,A. The bottom of the ninth,100,https://atcoder.jp/contests/abc351/tasks/abc351_a,abc351_a
+AtCoder Beginner Contest,ABC350,A,A. Past ABCs,100,https://atcoder.jp/contests/abc350/tasks/abc350_a,abc350_a
+AtCoder Beginner Contest,ABC349,A,A. Zero Sum Game,100,https://atcoder.jp/contests/abc349/tasks/abc349_a,abc349_a
+AtCoder Beginner Contest,ABC348,A,A. Penalty Kick,100,https://atcoder.jp/contests/abc348/tasks/abc348_a,abc348_a
+AtCoder Beginner Contest,ABC347,A,A. Divisible,100,https://atcoder.jp/contests/abc347/tasks/abc347_a,abc347_a
+AtCoder Beginner Contest,ABC346,A,A. Adjacent Product,100,https://atcoder.jp/contests/abc346/tasks/abc346_a,abc346_a
+AtCoder Beginner Contest,ABC345,A,A. Leftrightarrow,100,https://atcoder.jp/contests/abc345/tasks/abc345_a,abc345_a
+AtCoder Beginner Contest,ABC344,A,A. Spoiler,100,https://atcoder.jp/contests/abc344/tasks/abc344_a,abc344_a
+AtCoder Beginner Contest,ABC343,A,A. Wrong Answer,100,https://atcoder.jp/contests/abc343/tasks/abc343_a,abc343_a
+AtCoder Beginner Contest,ABC342,A,A. Yay!,100,https://atcoder.jp/contests/abc342/tasks/abc342_a,abc342_a
+AtCoder Beginner Contest,ABC341,A,A. Print 341,100,https://atcoder.jp/contests/abc341/tasks/abc341_a,abc341_a
+AtCoder Beginner Contest,ABC340,A,A. Arithmetic Progression,100,https://atcoder.jp/contests/abc340/tasks/abc340_a,abc340_a
+AtCoder Beginner Contest,ABC339,A,A. TLD,100,https://atcoder.jp/contests/abc339/tasks/abc339_a,abc339_a
+AtCoder Beginner Contest,ABC338,A,A. Capitalized?,100,https://atcoder.jp/contests/abc338/tasks/abc338_a,abc338_a
+AtCoder Beginner Contest,ABC337,A,A. Scoreboard,100,https://atcoder.jp/contests/abc337/tasks/abc337_a,abc337_a
+AtCoder Beginner Contest,ABC336,A,A. Long Loong,100,https://atcoder.jp/contests/abc336/tasks/abc336_a,abc336_a
+AtCoder Beginner Contest,ABC335,A,A. 202<s>3</s>,100,https://atcoder.jp/contests/abc335/tasks/abc335_a,abc335_a
+AtCoder Beginner Contest,ABC334,A,A. Christmas Present,100,https://atcoder.jp/contests/abc334/tasks/abc334_a,abc334_a
+AtCoder Beginner Contest,ABC333,A,A. Three Threes,100,https://atcoder.jp/contests/abc333/tasks/abc333_a,abc333_a
+AtCoder Beginner Contest,ABC332,A,A. Online Shopping,100,https://atcoder.jp/contests/abc332/tasks/abc332_a,abc332_a
+AtCoder Beginner Contest,ABC331,A,A. Tomorrow,100,https://atcoder.jp/contests/abc331/tasks/abc331_a,abc331_a
+AtCoder Beginner Contest,ABC330,A,A. Counting Passes,100,https://atcoder.jp/contests/abc330/tasks/abc330_a,abc330_a
+AtCoder Beginner Contest,ABC329,A,A. Spread,100,https://atcoder.jp/contests/abc329/tasks/abc329_a,abc329_a
+AtCoder Beginner Contest,ABC328,A,A. Not Too Hard,100,https://atcoder.jp/contests/abc328/tasks/abc328_a,abc328_a
+AtCoder Beginner Contest,ABC327,A,A. ab,100,https://atcoder.jp/contests/abc327/tasks/abc327_a,abc327_a
+AtCoder Beginner Contest,ABC326,A,A. 2UP3DOWN,100,https://atcoder.jp/contests/abc326/tasks/abc326_a,abc326_a
+AtCoder Beginner Contest,ABC325,A,A. Takahashi san,100,https://atcoder.jp/contests/abc325/tasks/abc325_a,abc325_a
+AtCoder Beginner Contest,ABC324,A,A. Same,100,https://atcoder.jp/contests/abc324/tasks/abc324_a,abc324_a
+AtCoder Beginner Contest,ABC323,A,A. Weak Beats,100,https://atcoder.jp/contests/abc323/tasks/abc323_a,abc323_a
+AtCoder Beginner Contest,ABC322,A,A. First ABC 2,100,https://atcoder.jp/contests/abc322/tasks/abc322_a,abc322_a
+AtCoder Beginner Contest,ABC321,A,A. 321-like Checker,100,https://atcoder.jp/contests/abc321/tasks/abc321_a,abc321_a
+AtCoder Beginner Contest,ABC320,A,A. Leyland Number,100,https://atcoder.jp/contests/abc320/tasks/abc320_a,abc320_a
+AtCoder Beginner Contest,ABC319,A,A. Legendary Players,100,https://atcoder.jp/contests/abc319/tasks/abc319_a,abc319_a
+AtCoder Beginner Contest,ABC318,A,A. Full Moon,100,https://atcoder.jp/contests/abc318/tasks/abc318_a,abc318_a
+AtCoder Beginner Contest,ABC317,A,A. Potions,100,https://atcoder.jp/contests/abc317/tasks/abc317_a,abc317_a
+AtCoder Beginner Contest,ABC316,A,,100,https://atcoder.jp/contests/abc316/tasks/abc316_a,abc316_a
+AtCoder Beginner Contest,ABC315,A,A. tcdr,100,https://atcoder.jp/contests/abc315/tasks/abc315_a,abc315_a
+AtCoder Beginner Contest,ABC314,A,A. 3.14,100,https://atcoder.jp/contests/abc314/tasks/abc314_a,abc314_a
+AtCoder Beginner Contest,ABC313,A,A. To Be Saikyo,100,https://atcoder.jp/contests/abc313/tasks/abc313_a,abc313_a
+AtCoder Beginner Contest,ABC312,A,A. Chord,100,https://atcoder.jp/contests/abc312/tasks/abc312_a,abc312_a
+AtCoder Beginner Contest,ABC311,A,A. First ABC,100,https://atcoder.jp/contests/abc311/tasks/abc311_a,abc311_a
+AtCoder Beginner Contest,ABC310,A,A. Order Something Else,100,https://atcoder.jp/contests/abc310/tasks/abc310_a,abc310_a
+AtCoder Beginner Contest,ABC309,A,A. Nine,100,https://atcoder.jp/contests/abc309/tasks/abc309_a,abc309_a
+AtCoder Beginner Contest,ABC308,A,A. New Scheme,100,https://atcoder.jp/contests/abc308/tasks/abc308_a,abc308_a
+AtCoder Beginner Contest,ABC307,A,A. Weekly Records,100,https://atcoder.jp/contests/abc307/tasks/abc307_a,abc307_a
+AtCoder Beginner Contest,ABC306,A,A. Echo,100,https://atcoder.jp/contests/abc306/tasks/abc306_a,abc306_a
+AtCoder Beginner Contest,ABC305,A,A. Water Station,100,https://atcoder.jp/contests/abc305/tasks/abc305_a,abc305_a
+AtCoder Beginner Contest,ABC304,A,A. First Player,100,https://atcoder.jp/contests/abc304/tasks/abc304_a,abc304_a
+AtCoder Beginner Contest,ABC303,A,A. Similar String,100,https://atcoder.jp/contests/abc303/tasks/abc303_a,abc303_a
+AtCoder Beginner Contest,ABC302,A,A. Attack,100,https://atcoder.jp/contests/abc302/tasks/abc302_a,abc302_a
+AtCoder Beginner Contest,ABC301,A,A. Overall Winner,100,https://atcoder.jp/contests/abc301/tasks/abc301_a,abc301_a
+AtCoder Beginner Contest,ABC300,A,A. N-choice question,100,https://atcoder.jp/contests/abc300/tasks/abc300_a,abc300_a
+AtCoder Beginner Contest,ABC299,A,,100,https://atcoder.jp/contests/abc299/tasks/abc299_a,abc299_a
+AtCoder Beginner Contest,ABC298,A,,100,https://atcoder.jp/contests/abc298/tasks/abc298_a,abc298_a
+AtCoder Beginner Contest,ABC297,A,,100,https://atcoder.jp/contests/abc297/tasks/abc297_a,abc297_a
+AtCoder Beginner Contest,ABC296,A,,100,https://atcoder.jp/contests/abc296/tasks/abc296_a,abc296_a
+AtCoder Beginner Contest,ABC295,A,,100,https://atcoder.jp/contests/abc295/tasks/abc295_a,abc295_a
+AtCoder Beginner Contest,ABC294,A,,100,https://atcoder.jp/contests/abc294/tasks/abc294_a,abc294_a
+AtCoder Beginner Contest,ABC293,A,,100,https://atcoder.jp/contests/abc293/tasks/abc293_a,abc293_a
+AtCoder Beginner Contest,ABC292,A,,100,https://atcoder.jp/contests/abc292/tasks/abc292_a,abc292_a
+AtCoder Beginner Contest,ABC291,A,,100,https://atcoder.jp/contests/abc291/tasks/abc291_a,abc291_a
+AtCoder Beginner Contest,ABC290,A,,100,https://atcoder.jp/contests/abc290/tasks/abc290_a,abc290_a
+AtCoder Beginner Contest,ABC289,A,,100,https://atcoder.jp/contests/abc289/tasks/abc289_a,abc289_a
+AtCoder Beginner Contest,ABC288,A,,100,https://atcoder.jp/contests/abc288/tasks/abc288_a,abc288_a
+AtCoder Beginner Contest,ABC287,A,,100,https://atcoder.jp/contests/abc287/tasks/abc287_a,abc287_a
+AtCoder Beginner Contest,ABC286,A,,100,https://atcoder.jp/contests/abc286/tasks/abc286_a,abc286_a
+AtCoder Beginner Contest,ABC285,A,,100,https://atcoder.jp/contests/abc285/tasks/abc285_a,abc285_a
+AtCoder Beginner Contest,ABC284,A,,100,https://atcoder.jp/contests/abc284/tasks/abc284_a,abc284_a
+AtCoder Beginner Contest,ABC283,A,,100,https://atcoder.jp/contests/abc283/tasks/abc283_a,abc283_a
+AtCoder Beginner Contest,ABC282,A,,100,https://atcoder.jp/contests/abc282/tasks/abc282_a,abc282_a
+AtCoder Beginner Contest,ABC281,A,,100,https://atcoder.jp/contests/abc281/tasks/abc281_a,abc281_a
+AtCoder Beginner Contest,ABC280,A,,100,https://atcoder.jp/contests/abc280/tasks/abc280_a,abc280_a
+AtCoder Beginner Contest,ABC279,A,,100,https://atcoder.jp/contests/abc279/tasks/abc279_a,abc279_a
+AtCoder Beginner Contest,ABC278,A,,100,https://atcoder.jp/contests/abc278/tasks/abc278_a,abc278_a
+AtCoder Beginner Contest,ABC277,A,,100,https://atcoder.jp/contests/abc277/tasks/abc277_a,abc277_a
+AtCoder Beginner Contest,ABC276,A,,100,https://atcoder.jp/contests/abc276/tasks/abc276_a,abc276_a
+AtCoder Beginner Contest,ABC275,A,,100,https://atcoder.jp/contests/abc275/tasks/abc275_a,abc275_a
+AtCoder Beginner Contest,ABC274,A,,100,https://atcoder.jp/contests/abc274/tasks/abc274_a,abc274_a
+AtCoder Beginner Contest,ABC273,A,,100,https://atcoder.jp/contests/abc273/tasks/abc273_a,abc273_a
+AtCoder Beginner Contest,ABC272,A,,100,https://atcoder.jp/contests/abc272/tasks/abc272_a,abc272_a
+AtCoder Beginner Contest,ABC271,A,,100,https://atcoder.jp/contests/abc271/tasks/abc271_a,abc271_a
+AtCoder Beginner Contest,ABC270,A,,100,https://atcoder.jp/contests/abc270/tasks/abc270_a,abc270_a
+AtCoder Beginner Contest,ABC269,A,,100,https://atcoder.jp/contests/abc269/tasks/abc269_a,abc269_a
+AtCoder Beginner Contest,ABC268,A,,100,https://atcoder.jp/contests/abc268/tasks/abc268_a,abc268_a
+AtCoder Beginner Contest,ABC267,A,,100,https://atcoder.jp/contests/abc267/tasks/abc267_a,abc267_a
+AtCoder Beginner Contest,ABC266,A,,100,https://atcoder.jp/contests/abc266/tasks/abc266_a,abc266_a
+AtCoder Beginner Contest,ABC265,A,,100,https://atcoder.jp/contests/abc265/tasks/abc265_a,abc265_a
+AtCoder Beginner Contest,ABC264,A,,100,https://atcoder.jp/contests/abc264/tasks/abc264_a,abc264_a
+AtCoder Beginner Contest,ABC263,A,,100,https://atcoder.jp/contests/abc263/tasks/abc263_a,abc263_a
+AtCoder Beginner Contest,ABC262,A,,100,https://atcoder.jp/contests/abc262/tasks/abc262_a,abc262_a
+AtCoder Beginner Contest,ABC261,A,,100,https://atcoder.jp/contests/abc261/tasks/abc261_a,abc261_a
+AtCoder Beginner Contest,ABC260,A,,100,https://atcoder.jp/contests/abc260/tasks/abc260_a,abc260_a
+AtCoder Beginner Contest,ABC259,A,,100,https://atcoder.jp/contests/abc259/tasks/abc259_a,abc259_a
+AtCoder Beginner Contest,ABC258,A,,100,https://atcoder.jp/contests/abc258/tasks/abc258_a,abc258_a
+AtCoder Beginner Contest,ABC257,A,,100,https://atcoder.jp/contests/abc257/tasks/abc257_a,abc257_a
+AtCoder Beginner Contest,ABC256,A,,100,https://atcoder.jp/contests/abc256/tasks/abc256_a,abc256_a
+AtCoder Beginner Contest,ABC255,A,,100,https://atcoder.jp/contests/abc255/tasks/abc255_a,abc255_a
+AtCoder Beginner Contest,ABC254,A,,100,https://atcoder.jp/contests/abc254/tasks/abc254_a,abc254_a
+AtCoder Beginner Contest,ABC253,A,,100,https://atcoder.jp/contests/abc253/tasks/abc253_a,abc253_a
+AtCoder Beginner Contest,ABC252,A,,100,https://atcoder.jp/contests/abc252/tasks/abc252_a,abc252_a
+AtCoder Beginner Contest,ABC251,A,,100,https://atcoder.jp/contests/abc251/tasks/abc251_a,abc251_a
+AtCoder Beginner Contest,ABC250,A,,100,https://atcoder.jp/contests/abc250/tasks/abc250_a,abc250_a
+AtCoder Beginner Contest,ABC249,A,,100,https://atcoder.jp/contests/abc249/tasks/abc249_a,abc249_a
+AtCoder Beginner Contest,ABC248,A,,100,https://atcoder.jp/contests/abc248/tasks/abc248_a,abc248_a
+AtCoder Beginner Contest,ABC247,A,,100,https://atcoder.jp/contests/abc247/tasks/abc247_a,abc247_a
+AtCoder Beginner Contest,ABC246,A,,100,https://atcoder.jp/contests/abc246/tasks/abc246_a,abc246_a
+AtCoder Beginner Contest,ABC245,A,,100,https://atcoder.jp/contests/abc245/tasks/abc245_a,abc245_a
+AtCoder Beginner Contest,ABC244,A,,100,https://atcoder.jp/contests/abc244/tasks/abc244_a,abc244_a
+AtCoder Beginner Contest,ABC243,A,,100,https://atcoder.jp/contests/abc243/tasks/abc243_a,abc243_a
+AtCoder Beginner Contest,ABC242,A,,100,https://atcoder.jp/contests/abc242/tasks/abc242_a,abc242_a
+AtCoder Beginner Contest,ABC241,A,,100,https://atcoder.jp/contests/abc241/tasks/abc241_a,abc241_a
+AtCoder Beginner Contest,ABC240,A,,100,https://atcoder.jp/contests/abc240/tasks/abc240_a,abc240_a
+AtCoder Beginner Contest,ABC239,A,,100,https://atcoder.jp/contests/abc239/tasks/abc239_a,abc239_a
+AtCoder Beginner Contest,ABC238,A,,100,https://atcoder.jp/contests/abc238/tasks/abc238_a,abc238_a
+AtCoder Beginner Contest,ABC237,A,,100,https://atcoder.jp/contests/abc237/tasks/abc237_a,abc237_a
+AtCoder Beginner Contest,ABC236,A,,100,https://atcoder.jp/contests/abc236/tasks/abc236_a,abc236_a
+AtCoder Beginner Contest,ABC235,A,,100,https://atcoder.jp/contests/abc235/tasks/abc235_a,abc235_a
+AtCoder Beginner Contest,ABC234,A,,100,https://atcoder.jp/contests/abc234/tasks/abc234_a,abc234_a
+AtCoder Beginner Contest,ABC233,A,,100,https://atcoder.jp/contests/abc233/tasks/abc233_a,abc233_a
+AtCoder Beginner Contest,ABC232,A,,100,https://atcoder.jp/contests/abc232/tasks/abc232_a,abc232_a
+AtCoder Beginner Contest,ABC231,A,,100,https://atcoder.jp/contests/abc231/tasks/abc231_a,abc231_a
+AtCoder Beginner Contest,ABC230,A,,100,https://atcoder.jp/contests/abc230/tasks/abc230_a,abc230_a
+AtCoder Beginner Contest,ABC229,A,,100,https://atcoder.jp/contests/abc229/tasks/abc229_a,abc229_a
+AtCoder Beginner Contest,ABC228,A,,100,https://atcoder.jp/contests/abc228/tasks/abc228_a,abc228_a
+AtCoder Beginner Contest,ABC227,A,,100,https://atcoder.jp/contests/abc227/tasks/abc227_a,abc227_a
+AtCoder Beginner Contest,ABC226,A,,100,https://atcoder.jp/contests/abc226/tasks/abc226_a,abc226_a
+AtCoder Beginner Contest,ABC225,A,,100,https://atcoder.jp/contests/abc225/tasks/abc225_a,abc225_a
+AtCoder Beginner Contest,ABC224,A,,100,https://atcoder.jp/contests/abc224/tasks/abc224_a,abc224_a
+AtCoder Beginner Contest,ABC223,A,,100,https://atcoder.jp/contests/abc223/tasks/abc223_a,abc223_a
+AtCoder Beginner Contest,ABC222,A,,100,https://atcoder.jp/contests/abc222/tasks/abc222_a,abc222_a
+AtCoder Beginner Contest,ABC221,A,,100,https://atcoder.jp/contests/abc221/tasks/abc221_a,abc221_a
+AtCoder Beginner Contest,ABC220,A,,100,https://atcoder.jp/contests/abc220/tasks/abc220_a,abc220_a
+AtCoder Beginner Contest,ABC219,A,,100,https://atcoder.jp/contests/abc219/tasks/abc219_a,abc219_a
+AtCoder Beginner Contest,ABC218,A,,100,https://atcoder.jp/contests/abc218/tasks/abc218_a,abc218_a
+AtCoder Beginner Contest,ABC217,A,,100,https://atcoder.jp/contests/abc217/tasks/abc217_a,abc217_a
+AtCoder Beginner Contest,ABC216,A,,100,https://atcoder.jp/contests/abc216/tasks/abc216_a,abc216_a
+AtCoder Beginner Contest,ABC215,A,,100,https://atcoder.jp/contests/abc215/tasks/abc215_a,abc215_a
+AtCoder Beginner Contest,ABC214,A,,100,https://atcoder.jp/contests/abc214/tasks/abc214_a,abc214_a
+AtCoder Beginner Contest,ABC213,A,,100,https://atcoder.jp/contests/abc213/tasks/abc213_a,abc213_a
+AtCoder Beginner Contest,ABC212,A,,100,https://atcoder.jp/contests/abc212/tasks/abc212_a,abc212_a
+AtCoder Beginner Contest,ABC211,A,,100,https://atcoder.jp/contests/abc211/tasks/abc211_a,abc211_a
+AtCoder Beginner Contest,ABC210,A,,100,https://atcoder.jp/contests/abc210/tasks/abc210_a,abc210_a
+AtCoder Beginner Contest,ABC209,A,,100,https://atcoder.jp/contests/abc209/tasks/abc209_a,abc209_a
+AtCoder Beginner Contest,ABC208,A,,100,https://atcoder.jp/contests/abc208/tasks/abc208_a,abc208_a
+AtCoder Beginner Contest,ABC207,A,,100,https://atcoder.jp/contests/abc207/tasks/abc207_a,abc207_a
+AtCoder Beginner Contest,ABC206,A,,100,https://atcoder.jp/contests/abc206/tasks/abc206_a,abc206_a
+AtCoder Beginner Contest,ABC205,A,,100,https://atcoder.jp/contests/abc205/tasks/abc205_a,abc205_a
+AtCoder Beginner Contest,ABC204,A,,100,https://atcoder.jp/contests/abc204/tasks/abc204_a,abc204_a
+AtCoder Beginner Contest,ABC203,A,,100,https://atcoder.jp/contests/abc203/tasks/abc203_a,abc203_a
+AtCoder Beginner Contest,ABC202,A,,100,https://atcoder.jp/contests/abc202/tasks/abc202_a,abc202_a
+AtCoder Beginner Contest,ABC201,A,,100,https://atcoder.jp/contests/abc201/tasks/abc201_a,abc201_a
+AtCoder Beginner Contest,ABC200,A,,100,https://atcoder.jp/contests/abc200/tasks/abc200_a,abc200_a
+AtCoder Beginner Contest,ABC199,A,,100,https://atcoder.jp/contests/abc199/tasks/abc199_a,abc199_a
+AtCoder Beginner Contest,ABC198,A,,100,https://atcoder.jp/contests/abc198/tasks/abc198_a,abc198_a
+AtCoder Beginner Contest,ABC197,A,,100,https://atcoder.jp/contests/abc197/tasks/abc197_a,abc197_a
+AtCoder Beginner Contest,ABC196,A,,100,https://atcoder.jp/contests/abc196/tasks/abc196_a,abc196_a
+AtCoder Beginner Contest,ABC195,A,,100,https://atcoder.jp/contests/abc195/tasks/abc195_a,abc195_a
+AtCoder Beginner Contest,ABC194,A,,100,https://atcoder.jp/contests/abc194/tasks/abc194_a,abc194_a
+AtCoder Beginner Contest,ABC193,A,,100,https://atcoder.jp/contests/abc193/tasks/abc193_a,abc193_a
+AtCoder Beginner Contest,ABC192,A,,100,https://atcoder.jp/contests/abc192/tasks/abc192_a,abc192_a
+AtCoder Beginner Contest,ABC191,A,,100,https://atcoder.jp/contests/abc191/tasks/abc191_a,abc191_a
+AtCoder Beginner Contest,ABC190,A,,100,https://atcoder.jp/contests/abc190/tasks/abc190_a,abc190_a
+AtCoder Beginner Contest,ABC189,A,,100,https://atcoder.jp/contests/abc189/tasks/abc189_a,abc189_a
+AtCoder Beginner Contest,ABC188,A,,100,https://atcoder.jp/contests/abc188/tasks/abc188_a,abc188_a
+AtCoder Beginner Contest,ABC187,A,,100,https://atcoder.jp/contests/abc187/tasks/abc187_a,abc187_a
+AtCoder Beginner Contest,ABC186,A,,100,https://atcoder.jp/contests/abc186/tasks/abc186_a,abc186_a
+AtCoder Beginner Contest,ABC185,A,,100,https://atcoder.jp/contests/abc185/tasks/abc185_a,abc185_a
+AtCoder Beginner Contest,ABC184,A,,100,https://atcoder.jp/contests/abc184/tasks/abc184_a,abc184_a
+AtCoder Beginner Contest,ABC183,A,,100,https://atcoder.jp/contests/abc183/tasks/abc183_a,abc183_a
+AtCoder Beginner Contest,ABC182,A,,100,https://atcoder.jp/contests/abc182/tasks/abc182_a,abc182_a
+AtCoder Beginner Contest,ABC181,A,,100,https://atcoder.jp/contests/abc181/tasks/abc181_a,abc181_a
+AtCoder Beginner Contest,ABC180,A,,100,https://atcoder.jp/contests/abc180/tasks/abc180_a,abc180_a
+AtCoder Beginner Contest,ABC179,A,,100,https://atcoder.jp/contests/abc179/tasks/abc179_a,abc179_a
+AtCoder Beginner Contest,ABC178,A,,100,https://atcoder.jp/contests/abc178/tasks/abc178_a,abc178_a
+AtCoder Beginner Contest,ABC177,A,,100,https://atcoder.jp/contests/abc177/tasks/abc177_a,abc177_a
+AtCoder Beginner Contest,ABC176,A,,100,https://atcoder.jp/contests/abc176/tasks/abc176_a,abc176_a
+AtCoder Beginner Contest,ABC175,A,,100,https://atcoder.jp/contests/abc175/tasks/abc175_a,abc175_a
+AtCoder Beginner Contest,ABC174,A,,100,https://atcoder.jp/contests/abc174/tasks/abc174_a,abc174_a
+AtCoder Beginner Contest,ABC173,A,,100,https://atcoder.jp/contests/abc173/tasks/abc173_a,abc173_a
+AtCoder Beginner Contest,ABC172,A,,100,https://atcoder.jp/contests/abc172/tasks/abc172_a,abc172_a
+AtCoder Beginner Contest,ABC171,A,,100,https://atcoder.jp/contests/abc171/tasks/abc171_a,abc171_a
+AtCoder Beginner Contest,ABC170,A,,100,https://atcoder.jp/contests/abc170/tasks/abc170_a,abc170_a
+AtCoder Beginner Contest,ABC169,A,,100,https://atcoder.jp/contests/abc169/tasks/abc169_a,abc169_a
+AtCoder Beginner Contest,ABC168,A,,100,https://atcoder.jp/contests/abc168/tasks/abc168_a,abc168_a
+AtCoder Beginner Contest,ABC167,A,,100,https://atcoder.jp/contests/abc167/tasks/abc167_a,abc167_a
+AtCoder Beginner Contest,ABC166,A,,100,https://atcoder.jp/contests/abc166/tasks/abc166_a,abc166_a
+AtCoder Beginner Contest,ABC165,A,,100,https://atcoder.jp/contests/abc165/tasks/abc165_a,abc165_a
+AtCoder Beginner Contest,ABC164,A,,100,https://atcoder.jp/contests/abc164/tasks/abc164_a,abc164_a
+AtCoder Beginner Contest,ABC163,A,,100,https://atcoder.jp/contests/abc163/tasks/abc163_a,abc163_a
+AtCoder Beginner Contest,ABC162,A,,100,https://atcoder.jp/contests/abc162/tasks/abc162_a,abc162_a
+AtCoder Beginner Contest,ABC161,A,,100,https://atcoder.jp/contests/abc161/tasks/abc161_a,abc161_a
+AtCoder Beginner Contest,ABC160,A,,100,https://atcoder.jp/contests/abc160/tasks/abc160_a,abc160_a
+AtCoder Beginner Contest,ABC159,A,,100,https://atcoder.jp/contests/abc159/tasks/abc159_a,abc159_a
+AtCoder Beginner Contest,ABC158,A,,100,https://atcoder.jp/contests/abc158/tasks/abc158_a,abc158_a
+AtCoder Beginner Contest,ABC157,A,,100,https://atcoder.jp/contests/abc157/tasks/abc157_a,abc157_a
+AtCoder Beginner Contest,ABC156,A,,100,https://atcoder.jp/contests/abc156/tasks/abc156_a,abc156_a
+AtCoder Beginner Contest,ABC155,A,,100,https://atcoder.jp/contests/abc155/tasks/abc155_a,abc155_a
+AtCoder Beginner Contest,ABC154,A,,100,https://atcoder.jp/contests/abc154/tasks/abc154_a,abc154_a
+AtCoder Beginner Contest,ABC153,A,,100,https://atcoder.jp/contests/abc153/tasks/abc153_a,abc153_a
+AtCoder Beginner Contest,ABC152,A,,100,https://atcoder.jp/contests/abc152/tasks/abc152_a,abc152_a
+AtCoder Beginner Contest,ABC151,A,,100,https://atcoder.jp/contests/abc151/tasks/abc151_a,abc151_a
+AtCoder Beginner Contest,ABC150,A,,100,https://atcoder.jp/contests/abc150/tasks/abc150_a,abc150_a
+AtCoder Beginner Contest,ABC149,A,,100,https://atcoder.jp/contests/abc149/tasks/abc149_a,abc149_a
+AtCoder Beginner Contest,ABC148,A,,100,https://atcoder.jp/contests/abc148/tasks/abc148_a,abc148_a
+AtCoder Beginner Contest,ABC147,A,,100,https://atcoder.jp/contests/abc147/tasks/abc147_a,abc147_a
+AtCoder Beginner Contest,ABC146,A,,100,https://atcoder.jp/contests/abc146/tasks/abc146_a,abc146_a
+AtCoder Beginner Contest,ABC145,A,,100,https://atcoder.jp/contests/abc145/tasks/abc145_a,abc145_a
+AtCoder Beginner Contest,ABC144,A,,100,https://atcoder.jp/contests/abc144/tasks/abc144_a,abc144_a
+AtCoder Beginner Contest,ABC143,A,,100,https://atcoder.jp/contests/abc143/tasks/abc143_a,abc143_a
+AtCoder Beginner Contest,ABC142,A,,100,https://atcoder.jp/contests/abc142/tasks/abc142_a,abc142_a
+AtCoder Beginner Contest,ABC141,A,,100,https://atcoder.jp/contests/abc141/tasks/abc141_a,abc141_a
+AtCoder Beginner Contest,ABC140,A,,100,https://atcoder.jp/contests/abc140/tasks/abc140_a,abc140_a
+AtCoder Beginner Contest,ABC139,A,,100,https://atcoder.jp/contests/abc139/tasks/abc139_a,abc139_a
+AtCoder Beginner Contest,ABC138,A,,100,https://atcoder.jp/contests/abc138/tasks/abc138_a,abc138_a
+AtCoder Beginner Contest,ABC137,A,,100,https://atcoder.jp/contests/abc137/tasks/abc137_a,abc137_a
+AtCoder Beginner Contest,ABC136,A,,100,https://atcoder.jp/contests/abc136/tasks/abc136_a,abc136_a
+AtCoder Beginner Contest,ABC135,A,,100,https://atcoder.jp/contests/abc135/tasks/abc135_a,abc135_a
+AtCoder Beginner Contest,ABC134,A,,100,https://atcoder.jp/contests/abc134/tasks/abc134_a,abc134_a
+AtCoder Beginner Contest,ABC133,A,,100,https://atcoder.jp/contests/abc133/tasks/abc133_a,abc133_a
+AtCoder Beginner Contest,ABC132,A,,100,https://atcoder.jp/contests/abc132/tasks/abc132_a,abc132_a
+AtCoder Beginner Contest,ABC131,A,,100,https://atcoder.jp/contests/abc131/tasks/abc131_a,abc131_a
+AtCoder Beginner Contest,ABC130,A,,100,https://atcoder.jp/contests/abc130/tasks/abc130_a,abc130_a
+AtCoder Beginner Contest,ABC129,A,,100,https://atcoder.jp/contests/abc129/tasks/abc129_a,abc129_a
+AtCoder Beginner Contest,ABC128,A,,100,https://atcoder.jp/contests/abc128/tasks/abc128_a,abc128_a
+AtCoder Beginner Contest,ABC127,A,,100,https://atcoder.jp/contests/abc127/tasks/abc127_a,abc127_a
+AtCoder Beginner Contest,ABC126,A,,100,https://atcoder.jp/contests/abc126/tasks/abc126_a,abc126_a
+AtCoder Beginner Contest,ABC125,A,,100,https://atcoder.jp/contests/abc125/tasks/abc125_a,abc125_a
+AtCoder Beginner Contest,ABC124,A,,100,https://atcoder.jp/contests/abc124/tasks/abc124_a,abc124_a
+AtCoder Beginner Contest,ABC123,A,,100,https://atcoder.jp/contests/abc123/tasks/abc123_a,abc123_a
+AtCoder Beginner Contest,ABC122,A,,100,https://atcoder.jp/contests/abc122/tasks/abc122_a,abc122_a
+AtCoder Beginner Contest,ABC121,A,,100,https://atcoder.jp/contests/abc121/tasks/abc121_a,abc121_a
+AtCoder Beginner Contest,ABC120,A,,100,https://atcoder.jp/contests/abc120/tasks/abc120_a,abc120_a
+AtCoder Beginner Contest,ABC119,A,,100,https://atcoder.jp/contests/abc119/tasks/abc119_a,abc119_a
+AtCoder Beginner Contest,ABC118,A,,100,https://atcoder.jp/contests/abc118/tasks/abc118_a,abc118_a
+AtCoder Beginner Contest,ABC117,A,,100,https://atcoder.jp/contests/abc117/tasks/abc117_a,abc117_a
+AtCoder Beginner Contest,ABC116,A,,100,https://atcoder.jp/contests/abc116/tasks/abc116_a,abc116_a
+AtCoder Beginner Contest,ABC115,A,,100,https://atcoder.jp/contests/abc115/tasks/abc115_a,abc115_a
+AtCoder Beginner Contest,ABC114,A,,100,https://atcoder.jp/contests/abc114/tasks/abc114_a,abc114_a
+AtCoder Beginner Contest,ABC113,A,,100,https://atcoder.jp/contests/abc113/tasks/abc113_a,abc113_a
+AtCoder Beginner Contest,ABC112,A,,100,https://atcoder.jp/contests/abc112/tasks/abc112_a,abc112_a
+AtCoder Beginner Contest,ABC111,A,,100,https://atcoder.jp/contests/abc111/tasks/abc111_a,abc111_a
+AtCoder Beginner Contest,ABC110,A,,100,https://atcoder.jp/contests/abc110/tasks/abc110_a,abc110_a
+AtCoder Beginner Contest,ABC109,A,,100,https://atcoder.jp/contests/abc109/tasks/abc109_a,abc109_a
+AtCoder Beginner Contest,ABC108,A,,100,https://atcoder.jp/contests/abc108/tasks/abc108_a,abc108_a
+AtCoder Beginner Contest,ABC107,A,,100,https://atcoder.jp/contests/abc107/tasks/abc107_a,abc107_a
+AtCoder Beginner Contest,ABC106,A,,100,https://atcoder.jp/contests/abc106/tasks/abc106_a,abc106_a
+AtCoder Beginner Contest,ABC105,A,,100,https://atcoder.jp/contests/abc105/tasks/abc105_a,abc105_a
+AtCoder Beginner Contest,ABC104,A,,100,https://atcoder.jp/contests/abc104/tasks/abc104_a,abc104_a
+AtCoder Beginner Contest,ABC103,A,,100,https://atcoder.jp/contests/abc103/tasks/abc103_a,abc103_a
+AtCoder Beginner Contest,ABC102,A,,100,https://atcoder.jp/contests/abc102/tasks/abc102_a,abc102_a
+AtCoder Beginner Contest,ABC101,A,,100,https://atcoder.jp/contests/abc101/tasks/abc101_a,abc101_a
+AtCoder Beginner Contest,ABC100,A,,100,https://atcoder.jp/contests/abc100/tasks/abc100_a,abc100_a
+AtCoder Beginner Contest,ABC99,A,,100,https://atcoder.jp/contests/abc99/tasks/abc99_a,abc99_a
+AtCoder Beginner Contest,ABC98,A,,100,https://atcoder.jp/contests/abc98/tasks/abc98_a,abc98_a
+AtCoder Beginner Contest,ABC97,A,,100,https://atcoder.jp/contests/abc97/tasks/abc97_a,abc97_a
+AtCoder Beginner Contest,ABC96,A,,100,https://atcoder.jp/contests/abc96/tasks/abc96_a,abc96_a
+AtCoder Beginner Contest,ABC95,A,,100,https://atcoder.jp/contests/abc95/tasks/abc95_a,abc95_a
+AtCoder Beginner Contest,ABC94,A,,100,https://atcoder.jp/contests/abc94/tasks/abc94_a,abc94_a
+AtCoder Beginner Contest,ABC93,A,,100,https://atcoder.jp/contests/abc93/tasks/abc93_a,abc93_a
+AtCoder Beginner Contest,ABC92,A,,100,https://atcoder.jp/contests/abc92/tasks/abc92_a,abc92_a
+AtCoder Beginner Contest,ABC91,A,,100,https://atcoder.jp/contests/abc91/tasks/abc91_a,abc91_a
+AtCoder Beginner Contest,ABC90,A,,100,https://atcoder.jp/contests/abc90/tasks/abc90_a,abc90_a
+AtCoder Beginner Contest,ABC89,A,,100,https://atcoder.jp/contests/abc89/tasks/abc89_a,abc89_a
+AtCoder Beginner Contest,ABC88,A,,100,https://atcoder.jp/contests/abc88/tasks/abc88_a,abc88_a
+AtCoder Beginner Contest,ABC87,A,,100,https://atcoder.jp/contests/abc87/tasks/abc87_a,abc87_a
+AtCoder Beginner Contest,ABC86,A,,100,https://atcoder.jp/contests/abc86/tasks/abc86_a,abc86_a
+AtCoder Beginner Contest,ABC85,A,,100,https://atcoder.jp/contests/abc85/tasks/abc85_a,abc85_a
+AtCoder Beginner Contest,ABC84,A,,100,https://atcoder.jp/contests/abc84/tasks/abc84_a,abc84_a
+AtCoder Beginner Contest,ABC83,A,,100,https://atcoder.jp/contests/abc83/tasks/abc83_a,abc83_a
+AtCoder Beginner Contest,ABC82,A,,100,https://atcoder.jp/contests/abc82/tasks/abc82_a,abc82_a
+AtCoder Beginner Contest,ABC81,A,,100,https://atcoder.jp/contests/abc81/tasks/abc81_a,abc81_a
+AtCoder Beginner Contest,ABC80,A,,100,https://atcoder.jp/contests/abc80/tasks/abc80_a,abc80_a
+AtCoder Beginner Contest,ABC79,A,,100,https://atcoder.jp/contests/abc79/tasks/abc79_a,abc79_a
+AtCoder Beginner Contest,ABC78,A,,100,https://atcoder.jp/contests/abc78/tasks/abc78_a,abc78_a
+AtCoder Beginner Contest,ABC77,A,,100,https://atcoder.jp/contests/abc77/tasks/abc77_a,abc77_a
+AtCoder Beginner Contest,ABC76,A,,100,https://atcoder.jp/contests/abc76/tasks/abc76_a,abc76_a
+AtCoder Beginner Contest,ABC75,A,,100,https://atcoder.jp/contests/abc75/tasks/abc75_a,abc75_a
+AtCoder Beginner Contest,ABC74,A,,100,https://atcoder.jp/contests/abc74/tasks/abc74_a,abc74_a
+AtCoder Beginner Contest,ABC73,A,,100,https://atcoder.jp/contests/abc73/tasks/abc73_a,abc73_a
+AtCoder Beginner Contest,ABC72,A,,100,https://atcoder.jp/contests/abc72/tasks/abc72_a,abc72_a
+AtCoder Beginner Contest,ABC71,A,,100,https://atcoder.jp/contests/abc71/tasks/abc71_a,abc71_a
+AtCoder Beginner Contest,ABC70,A,,100,https://atcoder.jp/contests/abc70/tasks/abc70_a,abc70_a
+AtCoder Beginner Contest,ABC69,A,,100,https://atcoder.jp/contests/abc69/tasks/abc69_a,abc69_a
+AtCoder Beginner Contest,ABC68,A,,100,https://atcoder.jp/contests/abc68/tasks/abc68_a,abc68_a
+AtCoder Beginner Contest,ABC67,A,,100,https://atcoder.jp/contests/abc67/tasks/abc67_a,abc67_a
+AtCoder Beginner Contest,ABC66,A,,100,https://atcoder.jp/contests/abc66/tasks/abc66_a,abc66_a
+AtCoder Beginner Contest,ABC65,A,,100,https://atcoder.jp/contests/abc65/tasks/abc65_a,abc65_a
+AtCoder Beginner Contest,ABC64,A,,100,https://atcoder.jp/contests/abc64/tasks/abc64_a,abc64_a
+AtCoder Beginner Contest,ABC63,A,,100,https://atcoder.jp/contests/abc63/tasks/abc63_a,abc63_a
+AtCoder Beginner Contest,ABC62,A,,100,https://atcoder.jp/contests/abc62/tasks/abc62_a,abc62_a
+AtCoder Beginner Contest,ABC61,A,,100,https://atcoder.jp/contests/abc61/tasks/abc61_a,abc61_a
+AtCoder Beginner Contest,ABC60,A,,100,https://atcoder.jp/contests/abc60/tasks/abc60_a,abc60_a
+AtCoder Beginner Contest,ABC59,A,,100,https://atcoder.jp/contests/abc59/tasks/abc59_a,abc59_a
+AtCoder Beginner Contest,ABC58,A,,100,https://atcoder.jp/contests/abc58/tasks/abc58_a,abc58_a
+AtCoder Beginner Contest,ABC57,A,,100,https://atcoder.jp/contests/abc57/tasks/abc57_a,abc57_a
+AtCoder Beginner Contest,ABC56,A,,100,https://atcoder.jp/contests/abc56/tasks/abc56_a,abc56_a
+AtCoder Beginner Contest,ABC55,A,,100,https://atcoder.jp/contests/abc55/tasks/abc55_a,abc55_a
+AtCoder Beginner Contest,ABC54,A,,100,https://atcoder.jp/contests/abc54/tasks/abc54_a,abc54_a
+AtCoder Beginner Contest,ABC53,A,,100,https://atcoder.jp/contests/abc53/tasks/abc53_a,abc53_a
+AtCoder Beginner Contest,ABC52,A,,100,https://atcoder.jp/contests/abc52/tasks/abc52_a,abc52_a
+AtCoder Beginner Contest,ABC51,A,,100,https://atcoder.jp/contests/abc51/tasks/abc51_a,abc51_a
+AtCoder Beginner Contest,ABC50,A,,100,https://atcoder.jp/contests/abc50/tasks/abc50_a,abc50_a
+AtCoder Beginner Contest,ABC49,A,,100,https://atcoder.jp/contests/abc49/tasks/abc49_a,abc49_a
+AtCoder Beginner Contest,ABC48,A,,100,https://atcoder.jp/contests/abc48/tasks/abc48_a,abc48_a
+AtCoder Beginner Contest,ABC47,A,,100,https://atcoder.jp/contests/abc47/tasks/abc47_a,abc47_a
+AtCoder Beginner Contest,ABC46,A,,100,https://atcoder.jp/contests/abc46/tasks/abc46_a,abc46_a
+AtCoder Beginner Contest,ABC45,A,,100,https://atcoder.jp/contests/abc45/tasks/abc45_a,abc45_a
+AtCoder Beginner Contest,ABC44,A,,100,https://atcoder.jp/contests/abc44/tasks/abc44_a,abc44_a
+AtCoder Beginner Contest,ABC43,A,,100,https://atcoder.jp/contests/abc43/tasks/abc43_a,abc43_a
+AtCoder Beginner Contest,ABC42,A,,100,https://atcoder.jp/contests/abc42/tasks/abc42_a,abc42_a
+AtCoder Beginner Contest,ABC41,A,,100,https://atcoder.jp/contests/abc41/tasks/abc41_a,abc41_a
+AtCoder Beginner Contest,ABC40,A,,100,https://atcoder.jp/contests/abc40/tasks/abc40_a,abc40_a
+AtCoder Beginner Contest,ABC39,A,,100,https://atcoder.jp/contests/abc39/tasks/abc39_a,abc39_a
+AtCoder Beginner Contest,ABC38,A,,100,https://atcoder.jp/contests/abc38/tasks/abc38_a,abc38_a
+AtCoder Beginner Contest,ABC37,A,,100,https://atcoder.jp/contests/abc37/tasks/abc37_a,abc37_a
+AtCoder Beginner Contest,ABC36,A,,100,https://atcoder.jp/contests/abc36/tasks/abc36_a,abc36_a
+AtCoder Beginner Contest,ABC35,A,,100,https://atcoder.jp/contests/abc35/tasks/abc35_a,abc35_a
+AtCoder Beginner Contest,ABC34,A,,100,https://atcoder.jp/contests/abc34/tasks/abc34_a,abc34_a
+AtCoder Beginner Contest,ABC33,A,,100,https://atcoder.jp/contests/abc33/tasks/abc33_a,abc33_a
+AtCoder Beginner Contest,ABC32,A,,100,https://atcoder.jp/contests/abc32/tasks/abc32_a,abc32_a
+AtCoder Beginner Contest,ABC31,A,,100,https://atcoder.jp/contests/abc31/tasks/abc31_a,abc31_a
+AtCoder Beginner Contest,ABC30,A,,100,https://atcoder.jp/contests/abc30/tasks/abc30_a,abc30_a
+AtCoder Beginner Contest,ABC29,A,,100,https://atcoder.jp/contests/abc29/tasks/abc29_a,abc29_a
+AtCoder Beginner Contest,ABC28,A,,100,https://atcoder.jp/contests/abc28/tasks/abc28_a,abc28_a
+AtCoder Beginner Contest,ABC27,A,,100,https://atcoder.jp/contests/abc27/tasks/abc27_a,abc27_a
+AtCoder Beginner Contest,ABC26,A,,100,https://atcoder.jp/contests/abc26/tasks/abc26_a,abc26_a
+AtCoder Beginner Contest,ABC25,A,,100,https://atcoder.jp/contests/abc25/tasks/abc25_a,abc25_a
+AtCoder Beginner Contest,ABC24,A,,100,https://atcoder.jp/contests/abc24/tasks/abc24_a,abc24_a
+AtCoder Beginner Contest,ABC23,A,,100,https://atcoder.jp/contests/abc23/tasks/abc23_a,abc23_a
+AtCoder Beginner Contest,ABC22,A,,100,https://atcoder.jp/contests/abc22/tasks/abc22_a,abc22_a
+AtCoder Beginner Contest,ABC21,A,,100,https://atcoder.jp/contests/abc21/tasks/abc21_a,abc21_a
+AtCoder Beginner Contest,ABC20,A,,100,https://atcoder.jp/contests/abc20/tasks/abc20_a,abc20_a
+AtCoder Beginner Contest,ABC19,A,,100,https://atcoder.jp/contests/abc19/tasks/abc19_a,abc19_a
+AtCoder Beginner Contest,ABC18,A,,100,https://atcoder.jp/contests/abc18/tasks/abc18_a,abc18_a
+AtCoder Beginner Contest,ABC17,A,,100,https://atcoder.jp/contests/abc17/tasks/abc17_a,abc17_a
+AtCoder Beginner Contest,ABC16,A,,100,https://atcoder.jp/contests/abc16/tasks/abc16_a,abc16_a
+AtCoder Beginner Contest,ABC15,A,,100,https://atcoder.jp/contests/abc15/tasks/abc15_a,abc15_a
+AtCoder Beginner Contest,ABC14,A,,100,https://atcoder.jp/contests/abc14/tasks/abc14_a,abc14_a
+AtCoder Beginner Contest,ABC13,A,,100,https://atcoder.jp/contests/abc13/tasks/abc13_a,abc13_a
+AtCoder Beginner Contest,ABC12,A,,100,https://atcoder.jp/contests/abc12/tasks/abc12_a,abc12_a
+AtCoder Beginner Contest,ABC11,A,,100,https://atcoder.jp/contests/abc11/tasks/abc11_a,abc11_a
+AtCoder Beginner Contest,ABC10,A,,100,https://atcoder.jp/contests/abc10/tasks/abc10_a,abc10_a
+AtCoder Beginner Contest,ABC9,A,,100,https://atcoder.jp/contests/abc9/tasks/abc9_a,abc9_a
+AtCoder Beginner Contest,ABC8,A,,100,https://atcoder.jp/contests/abc8/tasks/abc8_a,abc8_a
+AtCoder Beginner Contest,ABC7,A,,100,https://atcoder.jp/contests/abc7/tasks/abc7_a,abc7_a
+AtCoder Beginner Contest,ABC6,A,,100,https://atcoder.jp/contests/abc6/tasks/abc6_a,abc6_a
+AtCoder Beginner Contest,ABC5,A,,100,https://atcoder.jp/contests/abc5/tasks/abc5_a,abc5_a
+AtCoder Beginner Contest,ABC4,A,,100,https://atcoder.jp/contests/abc4/tasks/abc4_a,abc4_a
+AtCoder Beginner Contest,ABC3,A,,100,https://atcoder.jp/contests/abc3/tasks/abc3_a,abc3_a
+AtCoder Beginner Contest,ABC2,A,,100,https://atcoder.jp/contests/abc2/tasks/abc2_a,abc2_a
+AtCoder Beginner Contest,ABC1,A,,100,https://atcoder.jp/contests/abc1/tasks/abc1_a,abc1_a
